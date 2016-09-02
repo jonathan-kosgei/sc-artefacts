@@ -1,3 +1,4 @@
 gogs-0.9.83.0816-develop.tar.gz filter=lfs diff=lfs merge=lfs -text
 lfs filter=lfs diff=lfs merge=lfs -text
 README.md filter=lfs diff=lfs merge=lfs -text
+gogs-0.9.98.0901-develop-wheezy.tar.gz filter=lfs diff=lfs merge=lfs -text
